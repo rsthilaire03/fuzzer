@@ -12,4 +12,4 @@ def loop():
             print(res.status_code)
 
 loop()
-#cat common.txt| python fuzz.py
+#cat common.txt| python main.py
